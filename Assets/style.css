@@ -1,0 +1,9 @@
+.nav-item .heading-text {
+    color: white;
+}
+
+.nav-item .heading-text:hover .navbar-brand{
+    color: rgb(0, 0, 0);
+}
+
+
